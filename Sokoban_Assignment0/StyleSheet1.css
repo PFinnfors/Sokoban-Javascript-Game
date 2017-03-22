@@ -1,0 +1,40 @@
+﻿body {
+
+    background-color: black;
+}
+
+.tile {
+
+}
+
+.tile-space {
+    background-color: blue;
+    background-image: url("images/black.jpg");
+}
+
+.tile-wall {
+    background-image: url("images/brick-wall-185085_640.jpg");
+}
+
+.tile-goal {
+    background-image: url("images/download-1915753_640.png");
+}
+
+
+
+.entity {
+
+}
+
+.entity-player {
+    background-image: url("images/adventurer-1197392_640.png");
+}
+
+.entity-block {
+    background-image: url("images/crate-147618_640.png");
+}
+
+.entity-block-goal {
+    background-image: url("images/crate-GOAL147618_640.png");
+
+}
